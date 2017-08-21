@@ -11,6 +11,6 @@ package my.point;
  */
 public class Account {
     private int id;
-    private customer;
-    
+    private Customer customer;
+
 }
